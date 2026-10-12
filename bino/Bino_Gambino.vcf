@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Gambino;Anthony;;;
+FN:Anthony "Bino" Gambino
+NICKNAME:Bino
+ORG:VFW Post 7243
+TITLE:Commander
+TEL;TYPE=CELL:+17189168481
+EMAIL;TYPE=INTERNET:Agambino19992@icloud.com
+EMAIL;TYPE=INTERNET,WORK:VFW7243@yahoo.com
+URL:https://www.instagram.com/vfw7243hawaiiangardens
+X-SOCIALPROFILE;TYPE=facebook:https://www.facebook.com/vfwpost.hawaiiangardens/
+X-SOCIALPROFILE;TYPE=instagram:https://www.instagram.com/vfw7243hawaiiangardens
+ADR;TYPE=WORK:;;12064 Centralia Rd;Hawaiian Gardens;CA;90716;USA
+END:VCARD
