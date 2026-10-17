@@ -17,3 +17,5 @@ License note on Commons: public domain, consists only of simple geometric shapes
 The QR was built at error correction Level H. The white padded center box is 25 percent of the QR width and the emblem itself is about 19 to 20 percent, so scanners can still read the code. Verified locally with zxingcpp and with OpenCV QRCodeDetectorAruco, both decoded the full vCard.
 
 Note: this is American Legion Post 359, not VFW Post 7243. No USMC Eagle, Globe and Anchor is used.
+
+Homepage in the saved contact: https://www.facebook.com/NorwalkAmericanLegionPost359Family/ (Norwalk American Legion Post 359 Family Facebook page, as listed on mylegion.org Post Detail for Post 359). It is the vCard URL field, so iPhone shows it as 'homepage'.
