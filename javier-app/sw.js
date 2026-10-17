@@ -1,4 +1,4 @@
-const CACHE = "javier-vfw7243-v2";
+const CACHE = "javier-vfw7243-v3";
 const ASSETS = [
   "./",
   "./index.html",
